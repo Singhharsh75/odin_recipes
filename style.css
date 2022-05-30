@@ -1,0 +1,23 @@
+
+.heading{
+    background-color: #f5f5dc;
+    color: #ffa500;
+    text-align: center;
+    font-size: 40px;
+    font-family: cursive;
+    font-style: italic;
+}
+.list{
+    font-family: cursive;
+    font-size: 30px;
+    font-style: italic;
+}
+.list .straw{
+    color:#fc5a8d;
+}
+.list .cake{
+    color: #7b3f00;
+}
+.list .pizza{
+    color: #bf8d3c;
+}
